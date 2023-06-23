@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\saeed\source\repos\Math Quiz\clsQuestion.h(107,2): warning C4240: nonstandard extension used: access to 'clsQuestion::enOperationType' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\saeed\source\repos\Math Quiz\clsQuestion.h(13): message : see declaration of 'clsQuestion::enOperationType'
+C:\Users\saeed\source\repos\Math Quiz\clsQuestion.h(116,2): warning C4240: nonstandard extension used: access to 'clsQuestion::enDifficultyLevel' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\saeed\source\repos\Math Quiz\clsQuestion.h(14): message : see declaration of 'clsQuestion::enDifficultyLevel'
+C:\Users\saeed\source\repos\Math Quiz\clsQuiz.h(46,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  Math Quiz.vcxproj -> C:\Users\saeed\source\repos\Math Quiz\x64\Debug\Math Quiz.exe
