@@ -1,2 +1,2 @@
 # Math-Quiz
-simple math game
+console application game
